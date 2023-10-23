@@ -8,5 +8,12 @@ Creating and publishing information products, at global, regional and national s
 
 ## Documents
 
+Documents and meeting minutes are available in the [repository Wiki](https://github.com/iobis/iwg-products/wiki/IWG-data-products).
 
+## Tasks
 
+You can see the current tasks [in this issue](https://github.com/iobis/iwg-products/issues/1).
+
+## Interacting with the group
+
+If you want to contribute to the IWG, add yourself to our Slack channel (https://obishq.slack.com/archives/C061FENSPRU) and contribute here through issues.
